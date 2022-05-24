@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    flex-direction: row;
+        margin-top: 33px;
+        
+}
+
+.container div {
+    max-width: 33%;
+}
+
+
+.option2 {
+    display: block;
+    width: 33%;
+}
+
+.option2 label {
+    display: block;
+}
+
+#secondCol,
+#firstCol,
+#thirdCol {
+    border: 5px solid transparent;
+}
+
+.flaguri{
+    width: 100%;
+    background-color: black;
+    font-size: 60px;
+    text-align: center;  
+    padding: 50px;
+}
+
+.lp{
+    margin-top: 150px;
+    display: flex;
+}
+
+.patrat{
+    width: 32%;
+    background-color: black;
+    height: 290px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+#Img1,
+#Img2,
+#Img3{
+    width: 100%;
+    height: 290px;
+}
